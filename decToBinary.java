@@ -1,5 +1,3 @@
-/*Paper Problem Solving Activity #11 - "Number systems" */
-
 import java.util.*; // Going to use Scanner objects
 import java.lang.Math; // Will probably end up using this
 
